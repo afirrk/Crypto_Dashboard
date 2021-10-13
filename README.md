@@ -1,4 +1,4 @@
-# Crypto_Dashboard
+# Crypto Dashboard
 Dashboard containing Heatmaps of Most popular coins with Lineplot of overall market movement in last week.
 
 Data are downloaded through Binance API
