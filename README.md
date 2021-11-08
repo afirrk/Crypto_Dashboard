@@ -11,4 +11,4 @@ Then for selected coin you can run more detailed report that shows maximum drawd
 
 Another useful visualization is monthly return per coin. Each buble represent one month so if 5 years in a row there was negative return in January, you can expect another negative January this year... It is not 100 % as always, but at least you have something to work with...
 
-![alt text](https://user-images.githubusercontent.com/74175283/140692691-b6e7f52a-0e70-4d82-9731-d708c1490fbf.png)
+![alt text](https://user-images.githubusercontent.com/74175283/140707191-afaa7d7f-9e3c-44c1-8a6f-fb4edf8382c9.png)
