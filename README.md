@@ -16,3 +16,15 @@ Another useful visualization is monthly return per coin. Each buble represent on
 Same thing for Daily returns. Idea is that when coin moved certain percentage already, you know it is more likely to push back or stay then it is to move any further today based on historical movements.
 
 ![alt text](https://user-images.githubusercontent.com/74175283/140707423-6e26d4a5-01f6-44f2-a796-f951fd2abcdf.png)
+
+Heathmap
+
+![alt text](https://user-images.githubusercontent.com/74175283/141093325-d20a68d8-8fa0-4b19-a465-4e149c2feb52.png)
+
+Top correlated coin pairs
+
+![alt text](https://user-images.githubusercontent.com/74175283/141093373-3e6c4b99-5174-4562-a5bc-4e7d5d787e96.png)
+
+Top uncorrelated coin pairs
+
+![alt text](https://user-images.githubusercontent.com/74175283/141093488-355173c9-619f-44ea-a922-fc8875b30e97.png)
